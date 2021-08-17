@@ -1,3 +1,3 @@
-# helo-world
+# hello-world
 trial repo
 practicing github
